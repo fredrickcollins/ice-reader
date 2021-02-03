@@ -14,6 +14,7 @@
         <ul>
             <li> <a href="https://github.com/fredrickcollins/ice-reader/" target="_blank"> Git Repository </a> </li>
             <li> <a href="Technical Design Fredrick Collins.pdf" target="_blank"> Technical Design </a> </li>
+            <li> <a href="design-doc-fc.pdf" target="_blank"> User Document - Milestone 1 </a> </li>
         </ul>
         <?php       
         $file = basename($_SERVER['PHP_SELF']);
